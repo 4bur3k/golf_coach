@@ -148,11 +148,19 @@ class _MyHomePageState extends State<MyHomePage> {
                   // Отступ снизу
                   child: ElevatedButton(
                       onPressed: _pickVideoAndExtractFrames,
-                      child: Text('Загрузить видео'),
+                      child: Text('Загрузить видео',
+                        style: TextStyle(
+                          fontSize: 20,
+                          fontFamily: 'Arial',
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                        ),),
                       style: ElevatedButton.styleFrom(
                         shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(100),
                         ),
+                        primary: Color(0xFF161616),
+                        padding: EdgeInsets.symmetric(horizontal: 40, vertical: 20),
                       )))),
         ]
         )
