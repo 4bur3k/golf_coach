@@ -5,7 +5,7 @@ The project wasn't finished because we took only the 3rd place 😢
 # Goal 
 is an application, can get video, proccess it and show mistakes in swing golf stroke.  
 
-# Process
+# Processing
 includes: 
   * find different stroke stages (poses)
   * separate video into *n* frames (n = count of stages/poses) 
