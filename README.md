@@ -13,3 +13,6 @@ includes:
 # Stack
  * Mobile: Flutter
  * ML: Yolov8, PosNet
+
+# Demo
+https://youtube.com/shorts/qEnynp2iwb4?si=kaQCW8hOQjcTK4JR
