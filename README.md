@@ -1,5 +1,6 @@
 # Golf coach 
-This is a project for hackathon Digital breakthrough 2022.
+This is a project for hackathon Digital breakthrough 2022. 
+The project wasn't finished because we took only the 3rd place 😢
 
 # Goal 
 is an application, can get video, proccess it and show mistakes in swing golf stroke.  
@@ -15,4 +16,5 @@ includes:
  * ML: Yolov8, PosNet
 
 # Demo
+
 https://youtube.com/shorts/qEnynp2iwb4?si=kaQCW8hOQjcTK4JR
