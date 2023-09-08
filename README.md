@@ -1,16 +1,15 @@
-# flutter_application_1
+# Golf coach 
+This is a project for hackathon Digital breakthrough 2022.
 
-A new Flutter project.
+# Goal 
+is an application, can get video, proccess it and show mistakes in swing golf stroke.  
 
-## Getting Started
+# Process
+includes: 
+  * find different stroke stages (poses)
+  * separate video into *n* frames (n = count of stages/poses) 
+  * compare user poses from video to "prefect" (professional) stroke
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Stack
+ * Mobile: Flutter
+ * ML: Yolov8, PosNet
